@@ -1,0 +1,13 @@
+html {
+  background-color: #405946;
+}
+
+body {
+  background-color: #405946 !important;
+}
+
+.App {
+  text-align: center;
+  background-color: #405946;
+  font-family: 'Ubuntu', sans-serif;
+}
