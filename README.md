@@ -17,3 +17,6 @@ To use My Daily Note, simply visit the website at https://eloquent-begonia-35184
 ## Link
 
 https://eloquent-begonia-351848.netlify.app
+
+<img width="1435" alt="스크린샷 2023-02-21 오후 2 14 03" src="https://user-images.githubusercontent.com/87889917/220471125-5c834ed5-8e1f-424a-b55c-4fdf6c61b416.png">
+<img width="1420" alt="스크린샷 2023-02-21 오후 2 14 34" src="https://user-images.githubusercontent.com/87889917/220471134-a00c4566-102b-43ca-81f0-6ff8d43e6aba.png">
