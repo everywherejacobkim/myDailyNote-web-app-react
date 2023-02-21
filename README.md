@@ -1,10 +1,19 @@
-● Link to project: https://eloquent-begonia-351848.netlify.app/
-● My Daily Note is a website consisting of a daily to-do section, a memo to be recorded every day, and a categorized motivational quote section.
+# My Daily Note
 
-### `npm start`
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+My Daily Note is a website consisting of a daily to-do section, a memo to be recorded every day, and a categorized motivational quote section. The website is designed to provide an easy-to-use and clean interface for users to track their daily activities, capture notes, and stay motivated.
 
-### `npm run build`
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## Usage
+
+To use My Daily Note, simply visit the website at https://eloquent-begonia-351848.netlify.app. You can create and edit daily to-do lists, add and delete memo notes, and browse motivational quotes by category.
+
+## Features
+
+- Daily to-do list section for tracking daily activities and tasks
+- Memo section for recording notes and ideas
+- Motivational quotes section with categories for easy browsing
+- Clean and intuitive user interface for easy navigation and use
+
+
+## Link
+
+https://eloquent-begonia-351848.netlify.app
